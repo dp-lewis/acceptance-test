@@ -1,0 +1,23 @@
+{
+  "name": "acceptance-test",
+  "version": "1.0.0",
+  "description": "Basic Jasmine and Webdriver set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finder-dp-lewis/acceptance-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finder-dp-lewis/acceptance-test/issues"
+  },
+  "homepage": "https://github.com/finder-dp-lewis/acceptance-test",
+  "devDependencies": {
+    "jasmine": "^2.2.1",
+    "selenium-webdriver": "^2.45.1"
+  }
+}
